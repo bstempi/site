@@ -36,3 +36,5 @@ TYPOGRIFY = True
 THEME = 'theme/sac'
 PAGE_ORDER_BY = 'page-order'
 STATIC_PATHS = ['court-docs', ]
+HIDE_SIDEBAR = True
+CUSTOM_CSS = 'theme/css/custom.css'
